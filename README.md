@@ -20,12 +20,12 @@ SignWave is a cross-platform mobile application developed to improve media acces
 
 ##  Features
 
-- 📝 Text to ASL  
-- 🎙️ Audio to ASL  
-- 🎬 Video to ASL  
-- 📺 YouTube to ASL  
-- 📄 Document (PDF) to ASL  
-- 👤 User Profile & Settings  
+-  Text to ASL  
+-  Audio to ASL  
+-  Video to ASL  
+-  YouTube to ASL  
+-  Document (PDF) to ASL  
+-  User Profile & Settings  
 ---
 
 ##  Tech Stack
@@ -53,7 +53,7 @@ SignWave is a cross-platform mobile application developed to improve media acces
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 SDGP/
@@ -136,7 +136,7 @@ flutter run
 Update the API base URL in the frontend to point to your backend server.
 
 ---
-## 👥 Authors
+##  Authors
 
 - G.W.H.A. Minduli Lasandi
 - K.A. Romayle D.A. Dharmasena 
