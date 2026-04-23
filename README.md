@@ -136,28 +136,6 @@ flutter run
 Update the API base URL in the frontend to point to your backend server.
 
 ---
-
-##  Testing
-
-The project includes:
-- **Unit tests** — Backend tested using **Pytest** (signup validation, login error handling)
-- **Functional tests** — 10 test cases covering all major features
-- **Non-functional tests** — Security, performance, reliability, usability
-- **Usability testing** — Conducted with participants from deaf communities and ASL learners
-- **Compatibility testing** — Verified on multiple Android devices
-
-### Performance Benchmarks (translation time)
-
-| Feature | Input Size | Time (seconds) |
-|---------|-----------|----------------|
-| Text to ASL | 2 words | 7.20s |
-| Document to ASL | 41 words | 19.04s |
-| Video to ASL | 23s video | 22.32s |
-| Audio to ASL | 29s audio | 38.29s |
-| YouTube to ASL | 29s video | 39.02s |
-
----
-
 ## 👥 Authors
 
 - G.W.H.A. Minduli Lasandi
